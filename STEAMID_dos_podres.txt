@@ -1,0 +1,58 @@
+#use this for 9kmmrbot
+#you need to run line by line, don't run as a batch
+#no order defined
+#also run: !9kmmrbot toggleemotes AND !9kmmrbot toggleself
+
+!9kmmrbot addnp 84590029 dmurio
+!9kmmrbot addnp 114475387 Booclare
+!9kmmrbot addnp 15269308 HESP4NHOL
+!9kmmrbot addnp 53877254 kurokinha_
+!9kmmrbot addnp 84046837 Ursope
+!9kmmrbot addnp 972580846 DelayTvs
+!9kmmrbot addnp 420556150 RenaMede
+!9kmmrbot addnp 984357247 EternalElit
+!9kmmrbot addnp 51642742 mario_maker_levels
+!9kmmrbot addnp 111792056 Bllack22
+!9kmmrbot addnp 156892383 othGall
+!9kmmrbot addnp 81749154 SamuelUberaba
+!9kmmrbot addnp 173961761 trigundoto
+!9kmmrbot addnp 158006932 Victorvmo1042(DiDiSiNaPa)
+!9kmmrbot addnp 39195482 Phoenixlabella
+!9kmmrbot addnp 417670075 perereca_suicidad
+!9kmmrbot addnp 117307248 antares_dota2
+!9kmmrbot addnp 444126873 tumuKhumaK
+!9kmmrbot addnp 1245939409 xamalaw
+!9kmmrbot addnp 41052122 tiadolanche1212
+!9kmmrbot addnp 106601584 laanfog
+!9kmmrbot addnp 82816171 CarpesGames
+!9kmmrbot addnp 49790881 Kiensell
+!9kmmrbot addnp 7034024 bezinho
+
+#use this for dotabod
+#you need to run line by line, don't run as a batch
+#no order defined
+
+!np add 84590029 dmurio
+!np add 114475387 Booclare
+!np add addnp 15269308 HESP4NHOL
+!np add 53877254 kurokinha_
+!np add 84046837 Ursope
+!np add 972580846 DelayTvs
+!np add 420556150 RenaMede
+!np add 984357247 EternalElit
+!np add 51642742 mario_maker_levels
+!np add 111792056 Bllack22
+!np add 156892383 othGall
+!np add 81749154 SamuelUberaba
+!np add 173961761 trigundoto
+!np add 158006932 Victorvmo1042(DiDiSiNaPa)
+!np add 39195482 Phoenixlabella
+!np add 417670075 perereca_suicidad
+!np add 117307248 antares_dota2
+!np add 444126873 tumuKhumaK
+!np add 1245939409 xamalaw
+!np add 41052122 tiadolanche1212
+!np add 106601584 laanfog
+!np add 82816171 CarpesGames
+!np add 49790881 Kiensell
+!np add 7034024 bezinho
