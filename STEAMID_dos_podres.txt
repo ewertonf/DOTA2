@@ -27,6 +27,17 @@
 !9kmmrbot addnp 82816171 CarpesGames
 !9kmmrbot addnp 49790881 Kiensell
 !9kmmrbot addnp 7034024 bezinho
+!9kmmrbot addnp 258318673 Gamesnolinux
+!9kmmrbot addnp 207218723 moglill0bo
+!9kmmrbot addnp 1222630682 pleegs
+!9kmmrbot addnp 453483449 Goytacazes93
+!9kmmrbot addnp 101329888 futurodanutricao
+!9kmmrbot addnp 112104371 barlow_joe
+!9kmmrbot addnp 35399074 mrc1fps
+!9kmmrbot addnp 865561252 mortebranca_dota2
+!9kmmrbot addnp 1076720545 nandoanest
+!9kmmrbot addnp 486484528 furacao22
+
 
 #use this for dotabod
 #you need to run line by line, don't run as a batch
@@ -56,3 +67,13 @@
 !np add 82816171 CarpesGames
 !np add 49790881 Kiensell
 !np add 7034024 bezinho
+!np add 258318673 Gamesnolinux
+!np add 207218723 moglill0bo
+!np add 1222630682 pleegs
+!np add 453483449 Goytacazes93
+!np add 101329888 futurodanutricao
+!np add 112104371 barlow_joe
+!np add 35399074 mrc1fps
+!np add 865561252 mortebranca_dota2
+!np add 1076720545 nandoanest
+!np add 486484528 furacao22
