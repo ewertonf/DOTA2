@@ -46,6 +46,10 @@
 !9kmmrbot addnp 861046100 melvinfreddy(smurf)
 !9kmmrbot addnp 376391698 vSnoopy
 !9kmmrbot addnp 1292867948 sherlygameplay
+!9kmmrbot addnp 436673553 AnynhaGeek
+!9kmmrbot addnp 1126457904 labr4vaaa
+!9kmmrbot addnp 117875387 Pilati
+!9kmmrbot addnp 1278394475 SamtaLIVE
 
 #use this for dotabod
 #you need to run line by line, don't run as a batch
@@ -94,3 +98,7 @@
 !np add 861046100 melvinfreddy(smurf)
 !np add 376391698 vSnoopy
 !np add 1292867948 sherlygameplay
+!np add 436673553 AnynhaGeek
+!np add 1126457904 labr4vaaa
+!np add 117875387 Pilati
+!np add 1278394475 SamtaLIVE
